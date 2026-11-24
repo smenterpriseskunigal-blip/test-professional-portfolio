@@ -1,0 +1,1 @@
+export default function sitemap() { return [{ url: 'https://yashwanthgowdam.in', lastModified: new Date('2026-11-19'), changeFrequency: 'monthly' as const, priority: 1 }] } // bump lastModified when you update the site

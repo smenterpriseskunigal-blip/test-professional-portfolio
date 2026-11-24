@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "content": {
+    "profile": { "name": "Yashwanth Gowda M", "headline": "DevOps / Cloud / Kubernetes Engineer", "tagline": "Automating, Scaling and Operating Reliable Applications on the Cloud.", "stats": "5+|Years Experience\n40+|Projects\n25+|Tech & Tools\n100%|Cloud-Native Focus", "summary": "Write 2 to 3 sentences: your years of experience, main skills (Amazon EKS, Kubernetes, Terraform, CI/CD) and the kind of results you deliver.", "email": "your-email@example.com", "phone": "+91 XXXXXXXXXX", "location": "City, Country", "linkedin": "https://www.linkedin.com/in/your-profile", "github": "https://github.com/your-username" },
+    "experience": [
+      { "role": "Your job title", "company": "Company name", "dates": "Mon YYYY – Present", "bullets": "Upgraded N Amazon EKS clusters with zero downtime\nReduced deployment time by X% using GitHub Actions and Helm\nManaged N production workloads across 3 availability zones", "tech": "Amazon EKS, Kubernetes, Terraform, Helm, GitHub Actions" }
+    ],
+    "skills": [
+      { "category": "Cloud", "items": "AWS, Amazon EKS, EC2, VPC, IAM, ALB" },
+      { "category": "Kubernetes", "items": "Kubernetes, Helm, Docker" },
+      { "category": "CI/CD and IaC", "items": "GitHub Actions, CI/CD, Terraform" },
+      { "category": "Observability and security", "items": "Prometheus, Grafana, Trivy" }
+    ],
+    "projects": [
+      { "name": "Project name", "summary": "What it does and the result, in one or two sentences.", "tech": "Docker, GitHub Actions", "link": "https://github.com/your-username/repo" }
+    ],
+    "education": [ { "degree": "B.E. in Your Branch", "school": "College name", "years": "YYYY – YYYY" } ],
+    "certifications": [ { "name": "Certification name", "issuer": "Issuer", "date": "Mon YYYY", "url": "https://credential-link" } ],
+    "achievements": [ { "title": "Award or recognition", "detail": "What it was for, with a number if you have one." } ],
+    "volunteering": [ { "org": "Organisation", "role": "Your role", "detail": "What you did and the impact." } ]
+  }
+}
